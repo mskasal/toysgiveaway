@@ -5,4 +5,3 @@ import 'modules/main/app.dart';
 main() {
   runApp(const AppRoot());
 }
-
